@@ -9,7 +9,7 @@
 - 📫 How to reach me **chebbimedwassef@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,ts,spring,linux,git,bash,rust,py,cpp,mongodb,postgres,oracle,redis,docker,jenkins,kubernetes,kafka,rabbitmq,aws,angular,react,tailwind,vue" />
+  <img src="https://skillicons.dev/icons?i=java,ts,spring,linux,git,bash,rust,py,cpp,mongodb,postgres,redis,docker,jenkins,kubernetes,kafka,rabbitmq,aws,angular,react,tailwind,vue" />
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
